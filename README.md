@@ -22,7 +22,7 @@ Provide full UML class relationship diagram for the project above as well as a U
 
 Polynomial Program – UML Class Relationship Diagram
 
-![Alt text](?raw=treu)
+![Image](https://github.com/Jstafford98/Homework/blob/main/doc/SequenceDiagram.JPG?raw=treu)
 
 Polynomial Program – UML Driver Sequence Diagram
 

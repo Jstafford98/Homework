@@ -22,11 +22,11 @@ Provide full UML class relationship diagram for the project above as well as a U
 
 Polynomial Program – UML Class Relationship Diagram
 
-![Image](https://github.com/Jstafford98/Homework/blob/main/doc/SequenceDiagram.JPG?raw=treu)
+![Image](https://github.com/Jstafford98/Homework/blob/main/doc/UMLDiagram.JPG?raw=true)
 
 Polynomial Program – UML Driver Sequence Diagram
 
-![Image](https://github.com/Jstafford98/Homework/blob/main/doc/UMLDiagram.JPG?raw=treu)
+![Image](https://github.com/Jstafford98/Homework/blob/main/doc/SequenceDiagram.JPG?raw=true)
 
 Make sure to commit + push before the deadline to have your code be considered for grading.
 Pro-Tips:

@@ -26,7 +26,7 @@ Polynomial Program – UML Class Relationship Diagram
 
 Polynomial Program – UML Driver Sequence Diagram
 
-[ PLACE IMAGE HERE ]
+![Image](https://github.com/Jstafford98/Homework/blob/main/doc/UMLDiagram.JPG?raw=treu)
 
 Make sure to commit + push before the deadline to have your code be considered for grading.
 Pro-Tips:
